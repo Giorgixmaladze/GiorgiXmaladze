@@ -21,8 +21,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codesandbox.com/giorgii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="giorgii" height="30" width="40" /></a>
-<a href="https://fb.com/giorgi khmaladze" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="giorgi khmaladze" height="30" width="40" /></a>
+<a href="https://codesandbox.io/u/Giorgixmaladze" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="giorgii" height="30" width="40" /></a>
+<a href="https://www.facebook.com/giorgi.xmaladze.102/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="giorgi khmaladze" height="30" width="40" /></a>
 <a href="https://instagram.com/xmaladzeee7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xmaladzeee7" height="30" width="40" /></a>
 </p>
 
